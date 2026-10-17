@@ -1,5 +1,18 @@
-# Devendra's iLEAD 2027 portfolio
+# Devendra's iLEAD 2027 story
 
-A personal portfolio showcasing Devendra's projects, skills, and learning journey. The site is a single responsive HTML page.
+A personal website about who I am, what I hope to become, and what I’m learning along the way.
 
-Open `index.html` in a browser to view it locally.
+## View the website
+
+- **Live Streamlit app:** https://ilead-2027-story.streamlit.app/
+- **GitHub Pages:** https://devendrareddy6122.github.io/ilead-2027-story/
+
+## Run it locally
+
+Install Streamlit, then run:
+
+```bash
+streamlit run streamlit_app.py
+```
+
+The Streamlit app displays the portfolio from `index.html`.
